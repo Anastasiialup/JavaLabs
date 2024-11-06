@@ -3,9 +3,9 @@ package com.education.ztu;
 public class Main {
     public static void main(String[] args) {
         // Створюємо об'єкти класів Person, Student, Teacher, Employee
-        Student student = new Student("John", "Doe", 20, Gender.MALE, Location.KIEV, "Computer Science", "ZTU", 2);
-        Teacher teacher = new Teacher("Jane", "Smith", 40, Gender.FEMALE, Location.VINNYTSYA, "Mathematics", "ZTU", new Car("Toyota"));
-        Employee employee = new Employee("Tom", "Hanks", 35, Gender.MALE, Location.ZHYTOMYR, "Tech Corp", "Developer", new Car("BMW"));
+        Student student = new Student("Katy", "Pookie", 20, Gender.MALE, Location.KIEV, "Computer Science", "ZTU", 2);
+        Teacher teacher = new Teacher("Lida", "Something", 40, Gender.FEMALE, Location.VINNYTSYA, "Mathematics", "ZTU", new Car("Toyota"));
+        Employee employee = new Employee("Kiril", "Yabluko", 35, Gender.MALE, Location.ZHYTOMYR, "Tech Corp", "Developer", new Car("BMW"));
 
         // Демонстрація роботи методів класу Person і його нащадків
         student.sayName();
