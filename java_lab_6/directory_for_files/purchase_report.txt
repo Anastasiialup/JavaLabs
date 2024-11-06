@@ -1,0 +1,9 @@
+Date and time of purchase: 06.11.2024 18:51:42
+===========================================
+Item No Item Name  Category        Price     
+===========================================
+1   Jeans      Women's Clothing $1,500.78 
+2   Skirt      Women's Clothing $1,000.56 
+3   Tie        Men's Clothing  $500.78   
+===========================================
+Total: $3,002.12
