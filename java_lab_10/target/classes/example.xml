@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game name="Adventure">
+    <team name="Warriors">
+        <player>
+            <name>Alice</name>
+            <score>100</score>
+        </player>
+        <player>
+            <name>Bob</name>
+            <score>85</score>
+        </player>
+    </team>
+</game>

@@ -1,0 +1,11 @@
+2024-12-16 02:37:06 INFO  GameLogger:15 - Game initialized: Game{name='Adventure', team=Team{teamName='Warriors', players=[Player{name='Alice', score=100}]}}
+2024-12-16 02:37:25 INFO  GameLogger:15 - Game initialized: Game{name='Adventure', team=Team{teamName='Warriors', players=[Player{name='Alice', score=100}]}}
+2024-12-16 02:46:20 INFO  Main:24 - Game initialized: Game{name='Adventure', team=Team{teamName='Warriors', players=[Player{name='Alice', score=100}]}}
+2024-12-16 02:46:20 INFO  Main:31 - Game serialized to file game.ser
+2024-12-16 02:46:20 INFO  Main:35 - Game deserialized: Game{name='Adventure', team=Team{teamName='Warriors', players=[Player{name='Alice', score=100}]}}
+2024-12-16 02:46:20 DEBUG Main:42 - Debug log example
+2024-12-16 02:46:20 WARN  Main:43 - Warning log example
+2024-12-16 02:46:20 ERROR Main:44 - Error log example
+2024-12-16 02:46:20 INFO  Main:68 - XML written to file: example.xml
+2024-12-16 02:46:20 INFO  Main:79 - XML parsed successfully
+2024-12-16 02:46:20 INFO  Main:92 - Game serialized to JSON and back: Game{name='Adventure', team=Team{teamName='Warriors', players=[Player{name='Alice', score=100}]}}
